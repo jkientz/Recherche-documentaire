@@ -1,0 +1,4 @@
+[Project]
+Name=RechercheDocumentaire
+Manager=KDevCMakeManager
+VersionControl=kdevgit
